@@ -1,0 +1,163 @@
+body{
+
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 80px;
+    text-align:center;
+    background-color: rgba(24, 2, 20, 0.911);
+}
+
+#inicio {
+
+    bottom: 0;
+    background: linear-gradient(to right bottom,#e98ebc 20%, #41011f 80%);
+    height: 100%;
+}
+#icono{
+    font-size: 50px;
+}
+.fotoperfil {
+    width: 500px;
+    margin-top: 200px;
+    margin-bottom: 80px;
+    border-radius:50%;
+    border-style:groove;
+    border-color: rgb(44, 2, 41);
+    box-shadow: 3px 3px 3px violet;
+}
+
+#genero{
+    color:#f5eef1 ;
+    font-family: 'Handlee', cursive;
+    font-size:40px;
+}
+
+#biografia{
+   
+    margin-top: 10px;
+    background: linear-gradient(#ffffff 20%, #e98ebc 80%);
+    color:rgb(14, 1, 20);
+}
+
+#titulo{
+    
+    color:#f5f0f2 ;
+    font-family: Twinkle Star;
+    font-size:150px;
+   }
+
+#vida{
+    
+    background-color: rgba(49, 2, 31, 0.884);
+    font-family: Twinkle Star;
+    font-weight: 600;
+    font-size:50px;
+    color:#f8f5f6 ;
+}
+
+.div2{
+   
+    color:#1f010f ;
+    font-family: 'Handlee', cursive;
+    font-size:25px;
+    font-weight: 500;
+}
+
+.menu{
+    
+    list-style: none;
+    font-family: Twinkle Star;
+    color:rgb(13, 226, 190);
+    cursor: pointer;
+    position: fixed;
+    width: 100%;
+    margin-top: -10px;
+
+    }
+
+.links{
+    
+    font-family: Twinkle Star;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 600;
+    display: inline;
+    background-color: rgb(251, 251, 255);
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #41011f;
+    
+}
+
+.links:hover{
+    font-size: 50px;
+}
+
+#entrevista, #mas, #contacto, #titulolibros{
+    
+    font-family: Twinkle Star;
+    font-weight: 600;
+    font-size:50px;
+    color:#ffffff ;
+    background-color: rgba(49, 2, 31, 0.884);
+
+}
+#libroslainy, #contactolainy{
+   
+    background: linear-gradient(#ffffff 5%, #e98ebc 95%);
+    color:#1f010f ;
+    font-family: 'Handlee';
+    font-size:35px;
+    font-weight: 600;
+}
+
+#im1{
+    width: 205px;
+    border-radius: 30px;
+}
+
+#im2{
+    width: 200px;
+    border-radius: 30px;
+}
+#im3{
+    width: 206px;
+    border-radius: 30px;
+}
+
+#im4{
+    width: 204px;
+    border-radius: 30px;
+}
+#im5{
+    width: 200px;
+    border-radius: 30px;
+}
+
+#im6{
+    width: 220px;
+    border-radius: 30px;
+}
+#im7{
+    width: 220px;
+    border-radius: 30px;
+}
+#im8{
+    width: 210px;
+    border-radius: 30px;
+}
+#im9{
+    width: 214px;
+    border-radius: 30px;
+}
+#entrev1{
+    
+    color:#1d010e ;
+    font-family: 'Handlee', cursive;
+    font-weight: 600;
+    font-size:35px;
+}
+#videolainy, #infogral{
+   
+    background: linear-gradient(#ffffff 5%, #e98ebc 95%);
+}
